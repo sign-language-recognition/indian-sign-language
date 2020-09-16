@@ -7,7 +7,7 @@
 <!-- Not always needed, but a scope helps the user understand in a short sentance like below, why this repo exists -->
 ## Scope
 
-The purpose of this project is to provide a platform to verbally challenged to communicate with anyone in any language. 
+Project ISL(Indian Sign Language) is one of the initiatives where we are trying to give it back to the society. This is a project where developers code for a cause. With this project, we are trying to address the problems that verbally challenged(deaf and dumb) people go through every day. Verbally challenged people communicate using sign languages and the most commonly used sign language in south Asian countries is ISL(Indian Sign Language). While there are solutions using which we are recognising sign language but there are no standard solutions that are accessible to everyone. To address this problem, we are proposing Project ISL. The idea is to create a platform where verbally challenged can talk to regular people(and vice versa). Our plan is to infuse AI/ML techniques and create open and standard models that are publicly accessible for everyone to consume and perform translation from ISL to local languages in India(and vice versa). 
 
 <!-- A more detailed Usage or detailed explaination of the repository here -->
 ## Usage
@@ -18,7 +18,6 @@ This repository contains:
 * [README.md](README.md)
 * [CONTRIBUTING.md](CONTRIBUTING.md)
 * [MAINTAINERS.md](MAINTAINERS.md)
-<!-- A Changelog allows you to track major changes and things that happen, https://github.com/github-changelog-generator/github-changelog-generator can help automate the process -->
 * [CHANGELOG.md](CHANGELOG.md)
 
 ## Notes
