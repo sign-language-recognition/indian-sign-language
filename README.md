@@ -1,15 +1,97 @@
-<!-- This should be the location of the title of the repository, normally the short name -->
 # Indian Sign Language
+Technology has the power to do many things, and changing the world is one of them. And right now, there is an opportunity for us to help verbally challenged people to communicate with the common people. We recognise that technology alone cannot fix everything but technology can help bridge the gaps. This project is an effort to create solutions to address the challenges faced by verbally challenged people on a daily basis.
 
-<!-- Build Status, is a great thing to have at the top of your repository, it shows that you take your CI/CD as first class citizens -->
-<!-- [![Build Status](https://travis-ci.org/jjasghar/ibm-cloud-cli.svg?branch=master)](https://travis-ci.org/jjasghar/ibm-cloud-cli) -->
+## Goal for this Project
 
-<!-- Not always needed, but a scope helps the user understand in a short sentance like below, why this repo exists -->
-## Scope
+The desired outcome of this project is to create an open source asset that can have measurable impact on the problem statements listed in this repository.
 
-Project ISL(Indian Sign Language) is one of the initiatives where we are trying to give it back to the society. This is a project where developers code for a cause. With this project, we are trying to address the problems that verbally challenged(deaf and dumb) people go through every day. Verbally challenged people communicate using sign languages and the most commonly used sign language in south Asian countries is ISL(Indian Sign Language). While there are solutions using which we are recognising sign language but there are no standard solutions that are accessible to everyone. To address this problem, we are proposing Project ISL. The idea is to create a platform where verbally challenged can talk to regular people(and vice versa). Our plan is to infuse AI/ML techniques and create open and standard models that are publicly accessible for everyone to consume and perform translation from ISL to local languages in India(and vice versa). 
+Project ISL(Indian Sign Language) is one of the initiatives where we are trying to give it back to the society. This is a project where developers code for a cause. With this project, we are trying to address the problems that verbally challenged(deaf and dumb) people go through every day. Verbally challenged people communicate using sign languages and the most commonly used sign language in south Asian countries is ISL(Indian Sign Language). While there are solutions using which we are recognising sign language but there are no standard solutions that are accessible to everyone. To address this problem, we are proposing Project ISL. The idea is to create a platform where verbally challenged can talk to regular people(and vice versa). Our plan is to infuse AI/ML techniques and create open and standard models that are publicly accessible for everyone to consume and perform translation from ISL to local languages in India(and vice versa).
 
-<!-- A more detailed Usage or detailed explaination of the repository here -->
+## Contribute to this effort
+
+1. **Engage**
+
+   * Understand the [problem statements](##problem-statements) that are listed under this Github repository
+   * Reach out to us and stay connected if you want to get involved in our activities
+
+
+2. **Contribute**
+   * IBMers: [Learn](https://w3.ibm.com/developer/opensource/learn/certify/) about open source and [certify](https://yourlearning.ibm.com/activity/EL01-00001160) before contributing.
+   * If you have any questions or issues you can create a new [issue here][issues].
+   * Pull requests are very welcome! Make sure your patches are well tested.
+Ideally create a topic branch for every separate change you make.
+
+
+3. **Example**
+
+   * Fork the repo
+   * Create your feature branch (`git checkout -b my-new-feature`)
+   * Commit your changes (`git commit -am 'Added some feature'`)
+   * Push to the branch (`git push origin my-new-feature`)
+   * Create new Pull Request
+
+## Problem Statements
+
+1. Verbally challenged people don't have a standard system using which they can communicate with people that use various common languages like English.
+
+2. People who are working on translation systems for sign languages to common languages(and vice versa) don't have standard APIs/services to consume.
+
+3. Creating secure translation models where we don't have to worry about model poisoning, Inference, Extraction, Evasion.
+
+## Problem Statement - 01
+
+### who, what and how
+
+### How can Tech help?
+
+#### Available solutions
+
+#### Example Solution
+
+### Resources Available
+
+#### Datasets
+
+#### User Personas
+
+#### Papers and Publications
+
+## Problem Statement - 02
+
+### Hills(who, what and how)
+
+### How can Tech help?
+
+#### Available solutions
+
+#### Example Solution
+
+### Resources Available
+
+#### Datasets
+
+#### User Personas
+
+#### Papers and Publications
+
+## Problem Statement - 03
+
+### Hills(who, what and how)
+
+### How can Tech help?
+
+#### Available solutions
+
+#### Example Solution
+
+### Resources Available
+
+#### Datasets
+
+#### User Personas
+
+#### Papers and Publications
+
 ## Usage
 
 This repository contains:
@@ -20,22 +102,6 @@ This repository contains:
 * [MAINTAINERS.md](MAINTAINERS.md)
 * [CHANGELOG.md](CHANGELOG.md)
 
-## Notes
-
-<!-- Questions can be useful but optional, this gives you a place to say, "This is how to contact this project maintainers or create PRs -->
-If you have any questions or issues you can create a new [issue here][issues].
-
-Pull requests are very welcome! Make sure your patches are well tested.
-Ideally create a topic branch for every separate change you make. For
-example:
-
-1. Fork the repo
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Added some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
-
-<!-- License and Authors is optional here, but gives you the ability to highlight who is involed in the project -->
 ## License & Authors
 
 If you would like to see the detailed LICENSE click [here](LICENSE).
@@ -57,6 +123,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
-
-
-[issues]: https://github.com/IBM/repo-template/issues/new
