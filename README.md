@@ -58,7 +58,7 @@ Ideally create a topic branch for every separate change you make.
 
 ## Problem Statement - 02
 
-### Hills(who, what and how)
+### who, what and how
 
 ### How can Tech help?
 
@@ -76,7 +76,7 @@ Ideally create a topic branch for every separate change you make.
 
 ## Problem Statement - 03
 
-### Hills(who, what and how)
+### who, what and how
 
 ### How can Tech help?
 
